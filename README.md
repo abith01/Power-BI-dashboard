@@ -1,4 +1,4 @@
-
+![MasterHead](https://wallpaper-house.com/data/out/7/wallpaper2you_147084.jpg)
 # Power-BI-dashboard
 
 📈 Excited to present my Sales Report Dashboard! 🚀 Check out this powerful tool that provides a comprehensive view of our sales performance and helps us make data-driven decisions.
